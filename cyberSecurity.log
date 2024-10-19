@@ -1,0 +1,8 @@
+2024-10-19 13:36:12,696 - INFO - Logistic Regression run time: 0.0974 seconds
+2024-10-19 13:36:12,717 - INFO - Accuracy for Logistical Regression: 0.9128730780826048
+2024-10-19 13:36:12,717 - INFO - F-Score for Logistical Regression: 0.9128730780826048
+2024-10-19 13:36:12,745 - INFO - ROC/AUC Score for Logistical Regression: 0.9641874748840775
+2024-10-19 13:36:14,769 - INFO - Gradient Boosting Classifier run time: 1.8994 seconds
+2024-10-19 13:36:14,872 - INFO - Accuracy Score for Gradient Boost: 0.9222188724751281
+2024-10-19 13:36:14,873 - INFO - F-Score Score for Gradient Boost: 0.9324253535882661
+2024-10-19 13:36:14,873 - INFO - ROC/AUC Score for Gradient Boost: 0.97681550121372
